@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham65370758" target="blank"><img src="https://img.shields.io/twitter/follow/shubham65370758?logo=twitter&style=for-the-badge" alt="shubham65370758" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
