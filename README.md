@@ -8,6 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/shubham65370758" target="blank"><img src="https://img.shields.io/twitter/follow/shubham65370758?logo=twitter&style=for-the-badge" alt="shubham65370758" /></a> </p>
 
+- 🌱 I’m currently learning **react**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **shubhamaps198@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.to/shubham1450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/shubham1450" height="30" width="40" /></a>
