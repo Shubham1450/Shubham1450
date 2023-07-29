@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🌱 I’m currently interested in **Full stack Wev Development.**
+- 🌱 I’m currently interested in **Full stack Web Development.**
 - 📫 you can connect to me using the given link.
 - 📫 How to reach me **shubhamaps198@gmail.com**
 
