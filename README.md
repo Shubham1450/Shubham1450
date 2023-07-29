@@ -4,15 +4,18 @@
 
 <img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently interested in **Full stack Wev Development.**
+- 📫 you can connect to me using the given link.
+- 📫 How to reach me **shubhamaps198@gmail.com**
+
+  <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham1450" alt="shubham1450" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubham65370758" target="blank"><img src="https://img.shields.io/twitter/follow/shubham65370758?logo=twitter&style=for-the-badge" alt="shubham65370758" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 📫 How to reach me **shubhamaps198@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.to/shubham1450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/shubham1450" height="30" width="40" /></a>
